@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Busca Bancos</string>
+
+    <string name="versao_dados" translatable="false">1</string>
+
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="title_activity_filtro">Filtros</string>
+    <string name="title_activity_detalhes">Detalhes</string>
+    <string name="title_activity_mapas">Mapas</string>
+
+    <string name="maps_api_key" translatable="false">AIzaSyDuR_hJKpKUHFQ-kdWqBmWqiSccL0h1Glc</string>
+
+    <string name="admob_banner" translatable="false">ca-app-pub-3565902738453119/6653498181</string>
+    <!--<string name="admob_interstitial">ca-app-pub-3565902738453119/3726771387</string>-->
+
+    <string name="update_001">Atualização disponível</string>
+    <string name="update_002">Confira a última versão disponível do app!</string>
+    <string name="update_003">Atualizar agora?</string>
+    <string name="update_005">Atualização não disponível</string>
+    <string name="update_004">Não estou interessado</string>
+    <string name="update_006">Nenhuma atualização disponível. Verificar se há atualizações novamente mais tarde!</string>
+
+    <string name="_001" translatable="false">1 KM</string>
+    <string name="_002" translatable="false">3 KM</string>
+    <string name="_003" translatable="false">5 KM</string>
+    <string name="_004" translatable="false">10 KM</string>
+    <string name="_005" translatable="false">20 KM</string>
+    <string name="_006" translatable="false">30 KM</string>
+
+    <string name="a_001">Aplicativo:</string>
+    <string name="a_002">Atenção</string>
+    <string name="a_003">Aguarde</string>
+    <string name="a_004">Aviso</string>
+    <string name="a_005">Atualizar</string>
+
+    <string name="b_001">Busca Bancos</string>
+    <string name="b_002">Base de Dados criada com sucesso !</string>
+    <string name="b_003">Banco Principal</string>
+    <string name="b_004">Banco 2</string>
+    <string name="b_005">Banco 3</string>
+    <string name="b_006">Banco 4</string>
+    <string name="b_007">Banco 5</string>
+    <string name="b_008">Bancos</string>
+    <string name="b_009">Bairro</string>
+    <string name="b_010">Buscando os Bancos nas proximidades !</string>
+    <string name="b_011">Bairros</string>
+
+    <string name="c_001" translatable="false">Copyright:</string>
+    <string name="c_002">Contato:</string>
+    <string name="c_003">Criar Base de Dados</string>
+    <string name="c_004">Criando a base de dados !</string>
+    <string name="c_005">Código da Agência</string>
+    <string name="c_006">Complemento</string>
+    <string name="c_007" translatable="false">CEP</string>
+    <string name="c_008">Cidade</string>
+    <string name="c_009">Cidades</string>
+
+    <string name="e_001">Endereço</string>
+    <string name="e_002">Estado</string>
+    <string name="e_003">Estados</string>
+
+    <string name="f_001">Filtro</string>
+
+    <string name="i_001">Informe o Raio de Alcance !</string>
+    <string name="i_002">Informação</string>
+    <string name="i_003">Informe o Estado em que você se encontra para agilizar a busca.</string>
+
+    <string name="k_001" translatable="false">KM</string>
+
+    <string name="l_001">Limpar</string>
+
+    <string name="m_001" translatable="false">mm.mobilebr@gmail.com</string>
+    <string name="m_002" translatable="false">MM Mobile</string>
+    <string name="m_003">Mapa</string>
+
+    <string name="n_001">Nome do Banco</string>
+    <string name="n_002">Nome da Agência</string>
+
+    <string name="o_001" translatable="false">OK</string>
+
+    <string name="q_001">Quando informado a cidade e/ou bairro, será desconsiderado o raio de alcance. Sendo assim, mostrado todos os locais dentro da referida cidade e/ou bairro.</string>
+
+    <string name="r_001">Raio de Alcance</string>
+
+    <string name="s_001">Sobre</string>
+    <string name="s_002">Salvar</string>
+    <string name="s_003">Sair</string>
+
+    <string name="t_001">Tipo</string>
+    <string name="t_002">Telefone</string>
+    <string name="t_003">Tipos</string>
+
+    <string name="u_001">UF</string>
+
+    <string name="v_001">Versão:</string>
+
+</resources>

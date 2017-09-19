@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnu_atualizar"
+        android:icon="@drawable/ic_refresh_dark"
+        android:title="@string/a_005"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mnu_mapa"
+        android:icon="@drawable/ic_map_dark"
+        android:title="@string/m_003"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mnu_filtro"
+        android:icon="@drawable/ic_filter_variant_dark"
+        android:title="@string/f_001"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mnu_sobre"
+        android:icon="@drawable/ic_information_outline_dark"
+        android:title="@string/s_001"
+        app:showAsAction="ifRoom" />
+
+
+</menu>

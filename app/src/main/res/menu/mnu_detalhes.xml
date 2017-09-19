@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnu_mapa"
+        android:icon="@drawable/ic_map_dark"
+        android:title="@string/m_003"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mnu_fone"
+        android:icon="@drawable/ic_phone_dark"
+        android:title="@string/t_002"
+        app:showAsAction="ifRoom" />
+
+</menu>
